@@ -1,4 +1,5 @@
 # Unorder Data Type
+# In Moder pyhton dictionaries are ordered data types
 # 'key' :value
 # key is mutable
 # d = { 'name': 'satya', 'age': 21 }
